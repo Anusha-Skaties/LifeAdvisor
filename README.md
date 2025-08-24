@@ -28,5 +28,5 @@ It also tracks user questions during a session and reports the total count at th
 - [pypdf](https://pypi.org/project/pypdf/)  
 - [Pushover](https://pushover.net/) (optional for notifications)  
 
----
+
 
