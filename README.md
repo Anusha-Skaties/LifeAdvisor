@@ -30,9 +30,3 @@ It also tracks user questions during a session and reports the total count at th
 
 ---
 
-## 🚀 Setup & Installation
-
-### 1. Clone the repo
-```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
